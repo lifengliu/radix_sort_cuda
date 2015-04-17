@@ -1,5 +1,6 @@
 *.swp
 *.swo
+example
 test_radixsort
 *.data
 *.o
